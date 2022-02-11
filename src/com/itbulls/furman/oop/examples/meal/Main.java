@@ -51,9 +51,6 @@ public class Main {
 	}
 	
 	
-	
-	
-	
 	private static boolean inRange(int number) {
 		if (number >= 0 && number <= 50) {
 			return true;

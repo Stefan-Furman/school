@@ -6,3 +6,4 @@ public class Employee extends User {
 		System.out.println("Static method in Employee class is called.");
 	}
 }
+ 
