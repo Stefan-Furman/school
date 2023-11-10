@@ -1,5 +1,3 @@
 # school
 
--Publishing solutions to school questions
-
--If you need a video solution please let me know!
+-Publishing solutions to school questions and memos for past papers
