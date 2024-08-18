@@ -1,0 +1,7 @@
+Colgate Toothpaste,1,4,5,31,20
+Dischem Pharmacies,2,3,16,37,40
+Gold Reef City,15,40,22,29
+Joburg Theatre,11,23,34,8,6
+Maropeng Visitors Centre,25,16,19,18,24
+Mugg and Bean,2,3,7,19,27
+Soweto Tours Company,9,26,41

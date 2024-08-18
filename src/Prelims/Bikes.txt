@@ -1,0 +1,42 @@
+1#2022/05/01#Apartheid museum#C
+2#2022/05/01#Lion & Safari Park#S
+3#2022/05/01#Apartheid museum#B
+4#2022/05/01#Apartheid museum 
+5#2022/05/11#Apartheid museum 
+6#2022/04/01#Lion & Safari Park#S
+7#2022/05/21#Constitution Hill#S,B
+8#2022/05/01#Lion & Safari Park#C,B
+9#2022/05/09#Constitution Hill#T,S
+10#2022/05/01#Constitution Hill 
+11#2022/05/15#Constitution Hill 
+12#2022/03/05#Lion & Safari Park 
+13#2022/05/05#Lion & Safari Park 
+14#2022/06/05#Cradle of Humankind 
+15#2022/07/05#Cradle of Humankind#B
+16#2022/04/07#Cradle of Humankind 
+17#2022/03/10#Cradle of Humankind 
+18#2022/05/10#Lion & Safari Park#C,B
+19#2022/04/10#Cradle of Humankind 
+20#2022/03/18#Cradle of Humankind#S
+21#2022/05/01#Cradle of Humankind 
+22#2022/03/20#Cradle of Humankind 
+23#2022/06/19#Cradle of Humankind 
+24#2022/03/10#Cradle of Humankind#C,B
+25#2022/01/12#Cradle of Humankind#S
+26#2022/02/10#Cradle of Humankind 
+27#2022/04/25#Lion & Safari Park#T,S
+28#2022/02/20#Lion & Safari Park 
+29#2022/05/15#Mandela House 
+30#2022/06/05#Lion & Safari Park 
+31#2022/04/25#Lion & Safari Park#S,T
+32#2022/03/11#Lion & Safari Park 
+33#2022/01/05#Lion & Safari Park 
+34#2022/01/10#Lion & Safari Park 
+35#2022/04/17#Cradle of Humankind 
+36#2022/06/10#Cradle of Humankind 
+37#2022/07/01#Cradle of Humankind 
+38#2022/06/10#Cradle of Humankind 
+39#2022/03/18#Cradle of Humankind 
+40#2022/05/15#Lion & Safari Park 
+41#2022/05/10#Cradle of Humankind 
+42#2022/04/11#Lion & Safari Park#C,S
